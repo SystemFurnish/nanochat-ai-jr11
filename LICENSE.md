@@ -1,4 +1,4 @@
-# 
+# Best nanochat extensions. Featuring automated-testing and cloud-sync — optimized for maximum performance and efficiency.
 
 
 
